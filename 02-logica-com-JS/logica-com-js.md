@@ -1,4 +1,4 @@
-![112-installing](../assets/web-development.png)
+![112-installing](../img/web-development.png)
 
 
 
@@ -19,7 +19,7 @@
 
 ## Ambiente
 
-![node](../assets/nodejs.jpg)
+![node](../img/nodejs.jpg)
 
 ### O que é o node?
 
@@ -39,7 +39,7 @@ Caso não tenha, esse é o link para instalação: https://nodejs.org/en/downloa
 ### Pra rodar nossos códigos
 Nós vamos rodar nossos códigos Js dentro do próprio VSCode com essa ferramenta: `Code Runner`
 
-![runner](../assets/runner.png)
+![runner](../img/runner.png)
 
 Depois de instalado é só rodar `ctrl+alt+n` no arquivo `.js`
 
@@ -83,7 +83,7 @@ As estruturas de um algoritmo são:
 - **variáveis**: são as informações de entrada inseridas que determinam aonde o algoritmo poderá ir. As mais comuns são texto, inteiro, lógico e real;
 - **comandos de repetição***: consiste no uso de “se” e “enquanto”, para que o algoritmo saiba o que fazer quando determinados processos ocorrerem e o que fazer se eles mudarem.
 
-![node](../assets/flow-2.png) 
+![node](../img/flow-2.png) 
 
 ----
 
@@ -91,7 +91,7 @@ As estruturas de um algoritmo são:
 
 O recurso utilizado nos programas para escrever e **ler dados da memória do computador** é conhecido como variável, que é simplesmente um espaço na memória o qual reservamos e damos um nome. Por exemplo, podemos criar uma variável chamada "idade" para armazenar a idade de uma pessoa. Você pode imaginar uma variável como uma gaveta "etiquetada" em um armário.
 
-<img src = "../assets/var.png">
+<img src = "../img/var.png">
 
 Toda vez que precisarmos armezanar e recuperar dados utilizaremos variáveis.
 
@@ -302,7 +302,7 @@ Sendo assim, __recomenda-se usar o triple equals__ para evitar surpresas.
 
 E a internet não perdoa as surpresas:
 
-![meme1](../assets/meme-javascripto.png)
+![meme1](../img/meme-javascripto.png)
 
 ##### > maior que
 O operador de Maior retorna true se o operando da esquerda for maior que o operando da direita.
@@ -521,8 +521,8 @@ console.log(nome + ' ama ' + comidaPreferida + '!');
 
 Saída
 ```
-Qual o seu nome? Isabelle
-Oi Isabelle!
+Qual o seu nome? Naiara
+Oi Naiara!
 Qual a sua comida preferia? ****
 Isabelle ama batata frita!
 ```
